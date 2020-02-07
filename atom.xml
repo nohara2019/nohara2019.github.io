@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nohara2019.github.io</id>
     <title>Nohara&apos;s blog</title>
-    <updated>2020-02-03T05:49:28.573Z</updated>
+    <updated>2020-02-07T08:18:07.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nohara2019.github.io"/>
     <link rel="self" href="https://nohara2019.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://nohara2019.github.io/images/avatar.png</logo>
     <icon>https://nohara2019.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nohara&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【杂项】许许多多的杂谈都放在了这里]]></title>
+        <id>https://nohara2019.github.io/post/za-xiang-xu-xu-duo-duo-de-za-tan-du-fang-zai-liao-zhe-li</id>
+        <link href="https://nohara2019.github.io/post/za-xiang-xu-xu-duo-duo-de-za-tan-du-fang-zai-liao-zhe-li">
+        </link>
+        <updated>2020-02-07T07:58:47.000Z</updated>
+        <content type="html"><![CDATA[<p>😃这里是我个人想法的存放点，一些有但完全不了解或者非常有兴趣的想法我都会放在这里<br>
+emmmm<s>垃圾站</s>？</p>
+<p>🤖 2.7 根据这几天疫情没有好转，在家里快憋出病的我在网上冲浪的时候无意中了解到了树莓派这个东西<br>
+虽然不是很了解，但是从我敏锐的目光发现这个玩意好像就是类型一个微型电脑，可以往里面刷系统神马的，很小方便携带，仔细想想现在闲的也是没事干索性整一个<s>给我也整一个</s>玩玩，了解下这个神奇的玩意。</p>
+<p>🤢2.7 计划一下，做一些网站的调整，虽然是从网上当下来的主题，但是在我英明神武的操作下，完全变成了一个极其简约的网站，只有些许栏目和不知道什么时候才会能加上的背景。希望自己以后能完善一下网站。让网站更加丰富。添加些许功能更改一些bug。<br>
+1.完善网页至少不像现在这样没有章法，emmm可能是我词穷，不像现在一样简约？<br>
+2.增加些许配件如live2d配件或者滚动屏啊之类的<br>
+3.改善内容<br>
+4.待定</p>
+<p>🙀 2.7 学习问题<br>
+我觉得我的学习是一个很大的问题，马上就要出国了<s>去日本</s>也不知道现在这个样子还能不能出去。在家里学习感觉还是没有那个氛围吧？<s>借口</s>所以在这里写点东西激励下自己<br>
+学好日语，英语，数理化（在闲暇之余学习一些他国语言或者新的东西吧）</p>
+<p>💀2.7 愿望清单<br>
+1.想养一只小动物猫啊狗啊猫头鹰啊之类的<br>
+2.不用担心学习🙄<br>
+3.买一台照相机<br>
+4.记录生活vlog<br>
+暂且为2020年的希望吧~~加油，奥里给!!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新坑】Python+web的学习笔记及心得]]></title>
+        <id>https://nohara2019.github.io/post/xin-keng-pythonweb-de-xue-xi-bi-ji-ji-xin-de</id>
+        <link href="https://nohara2019.github.io/post/xin-keng-pythonweb-de-xue-xi-bi-ji-ji-xin-de">
+        </link>
+        <updated>2020-02-07T07:49:38.000Z</updated>
+        <content type="html"><![CDATA[<p>😀之前在<s>网上冲浪</s>查找学习资料的时候意外的发现了这本Python+web的书<br>
+虽然书还没到但是已经有开始学习的想法了，书到了之后我会将书名贴在这里方便以后观看</p>
+<p>⚠️题外话：因为学习专业不同（原来是学习网络的）的缘故，所以开始对编程有些许兴趣，因为听说可以提高办公效率等。我这方面也算半个小白吧，虽然之前有接触过java，Python，c语言等。但是都是只了解一些皮毛。一旦进到更加深一层次的就完全不理解了😱😱😱。<br>
+so现在开始系统的学习一下Python，想通过这次机会对编程了解一下对以后的学习可能也会有些许帮助。加油，奥利给！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简要说明]]></title>
         <id>https://nohara2019.github.io/post/ce-shi</id>
