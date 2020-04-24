@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nohara2019.github.io</id>
     <title>Nohara&apos;s blog</title>
-    <updated>2020-04-24T15:44:04.560Z</updated>
+    <updated>2020-04-24T15:46:05.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nohara2019.github.io"/>
     <link rel="self" href="https://nohara2019.github.io/atom.xml"/>
@@ -55,7 +55,8 @@ emmmm<s>垃圾站</s>？</p>
         <link href="https://nohara2019.github.io/post/xin-keng-pythonweb-de-xue-xi-bi-ji-ji-xin-de">
         </link>
         <updated>2020-02-07T07:49:38.000Z</updated>
-        <content type="html"><![CDATA[<p>😀之前在<s>网上冲浪</s>查找学习资料的时候意外的发现了这本Python+web的书<br>
+        <content type="html"><![CDATA[<!-- more -->
+<p>😀之前在<s>网上冲浪</s>查找学习资料的时候意外的发现了这本Python+web的书<br>
 虽然书还没到但是已经有开始学习的想法了，书到了之后我会将书名贴在这里方便以后观看</p>
 <p>⚠️题外话：因为学习专业不同（原来是学习网络的）的缘故，所以开始对编程有些许兴趣，因为听说可以提高办公效率等。我这方面也算半个小白吧，虽然之前有接触过java，Python，c语言等。但是都是只了解一些皮毛。一旦进到更加深一层次的就完全不理解了😱😱😱。<br>
 so现在开始系统的学习一下Python，想通过这次机会对编程了解一下对以后的学习可能也会有些许帮助。加油，奥利给！！</p>
