@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="utf-8" />
@@ -35,38 +35,10 @@
         <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js"></script>
         
                 
-    <script src="//cdn.jsdelivr.net/gh/tangkaichuan/gridea-search/lib/fuse.js"></script>
-    <script src="//cdn.jsdelivr.net/gh/tangkaichuan/gridea-search/lib/ejs.min.js"></script>
-    <script src="//cdn.jsdelivr.net/gh/tangkaichuan/gridea-search/lib/gridea-search.min.js"></script>
-    <script src="//cdn.jsdelivr.net/gh/tangkaichuan/gridea-search/example/assets/media/gridea-search/result-template.ejs" type="text/ejs"></script>
-    <style>
-            .main_ {
-                display: flex;
-                flex-direction: column;
-                width: 100%;
-                height: 90vh;
-            }
-            
-            .result-box {
-                margin-top: 50px;
-                display: flex;
-                border-radius: 5px;
-                -webkit-box-sizing: border-box;
-                -moz-box-sizing: border-box;
-                box-sizing: border-box;
-                margin-left: auto;
-                margin-right: auto;
-            }
-        </style>
 </head>
 
 <body>
-    <style>
-        .searched-keyword {
-            background-color: green;
-        }
-    </style>
-    <div class="main_">
+    <div class="wrapper">
         <header>
     <nav class="navbar">
         <div class="container">
@@ -173,15 +145,73 @@
 
     }
 </script>
-            <div class="result-box">
-                <div id="gridea-search-result">
-                    <p class="searching">搜索中......</p>
-                    <p class="no-result" style="display:none">未搜索到相关文章</p>
+            <div class="main">
+                <div class="container">
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title">
+                                【学习】学习内容
+                            </h1>
+                            
+                                    <!--zh-->
+                                    <div class="post-meta zh">
+                                        &#x4F5C;&#x8005;:
+                                        <a itemprop="author" rel="author" href="/">
+                                            Nohara's blog
+                                        </a>
+                                        <span class="post-time">&#x65E5;&#x671F;: <a href="#">2020-04-24</a></span>
+                                        <span class="post-readtime">&#x9605;&#x8BFB;&#x65F6;&#x95F4;:<a href="#">0.0 &#x5206;&#x949F;</a></span>
+                                        <span class="post-words">&#x5B57;&#x6570;:<a href="#">10</a></span>
+                                        
+                                    </div>
+                                    
+                        </header>
+                        <div class="post-content">
+                            <p>⚽️数学</p>
+<p>🏀物理</p>
+<p>🏈化学</p>
+<p>⚾️日语</p>
+<p>🎾英语</p>
+
+                        </div>
+                        <div class="post-toc">
+                            
+                        </div>
+                        
+                                            
+                                                    <!--zh-->
+                                                    <section class="post-tags zh">
+                                                        <div>
+                                                            <span>&#x6807;&#x7B7E;:</span>
+                                                            <span class="tag">
+                                
+                            </span>
+                                                        </div>
+                                                        <div>
+                                                            <a href="javascript:window.history.back();">
+                                &#x8FD4;&#x56DE;</a>
+                                                            <span>&dot;</span>
+                                                            <a href="#">&#x4E3B;&#x9875;</a>
+                                                        </div>
+                                                    </section>
+                                                    
+                                                        <!---->
+                                                        <section class="post-nav">
+                                                            
+                                                                    
+                                                                        <a class="next" rel="next" href="https://nohara2019.github.io/post/za-xiang-xu-xu-duo-duo-de-za-tan-du-fang-zai-liao-zhe-li">
+                                                                            【杂项】杂谈
+                                                                        </a>
+                                                                        
+                                                        </section>
+                    </article>
                 </div>
+                
             </div>
     </div>
-</body>
-
+    </div>
+    </div>
+    
         <footer id="footer" class="footer">
 
             <div class="copyright">
@@ -248,5 +278,10 @@
                     console.log(" Blog 更新时间: " + newDate.toLocaleDateString());
                     console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
                 </script>
+        </div>
+</body>
+<script>
+    scroll();
+</script>
 
 </html>
